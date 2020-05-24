@@ -1,0 +1,7 @@
+[battery]
+instance=BAT1
+interval=10
+
+[battery]
+intance=BAT0
+interval=10
